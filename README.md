@@ -10,7 +10,7 @@ This project is a **voice-controlled AI assistant** built with Python. It listen
 
 * 🎧 **Speech Recognition** using `SpeechRecognition` and your system microphone
 * 🗣️ **Text-to-Speech (TTS)** responses via `pyttsx3`
-* 🧠 **AI-powered responses** from **Google Gemini 1.5 Pro**
+* 🧠 **AI-powered responses** from **Google Gemini 2.5 Pro**
 * 💬 **Interactive conversation loop**
 * ⚙️ **Custom prompt logic** for handling different types of queries efficiently
 * 🛡️ Built-in **safety and content filtering**
